@@ -14,16 +14,12 @@ Este projeto demonstra como automatizar relatórios de vendas usando Python, Exc
 ## Estrutura do projeto
 
 sales_report_project/
-│
-├── main.py # Script principal
+README.md
+data/ #Planilha de vendas original
+  planilha de vendas.xlsx
+main.py # Script principal
+output/ #imagens de gráficos e planilha atualizada
 
-├── data/ # Planilha de vendas original
-
-│ └── planilha de vendas.xlsx
-
-├── output/ # Gráficos e planilhas geradas
-
-└── README.md
 
 ## Tecnologias
 
